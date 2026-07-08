@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Denis 👋
 
-<!--
-**thragg121/thragg121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Telegram Bot Developer
 
-Here are some ideas to get you started:
+I build modern Telegram bots for businesses using Python and aiogram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I build
+
+- 🤖 AI Assistants
+- 📅 Booking Bots
+- 🛒 Shop Bots
+- 💬 Support Bots
+- ⚙️ Business Automation
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- aiogram
+- SQLite
+- OpenAI API
+- Git
+- GitHub
+
+---
+
+## 📂 Current Portfolio
+
+| Project | Status |
+|---------|--------|
+| 🤖 AI Assistant Bot | ✅ Complete |
+| 📅 Booking Bot | 🚧 In Progress |
+| 🛒 Shop Bot | ⏳ Planned |
+| 💬 Support Bot | ⏳ Planned |
+| 📈 Crypto Bot | ⏳ Planned |
+
+---
+
+## 🎯 Current Goal
+
+Build high-quality Telegram bots for real businesses and freelance clients.
+
+---
+
+## 📫 Contact
+
+Open to freelance opportunities.
