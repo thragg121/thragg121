@@ -30,7 +30,7 @@ I build modern Telegram bots for businesses using Python and aiogram.
 | Project | Status |
 |---------|--------|
 | 🤖 AI Assistant Bot | ✅ Complete |
-| 📅 Booking Bot | 🚧 In Progress |
+| 📅 Booking Bot | ✅ Complete |
 | 🛒 Shop Bot | ⏳ Planned |
 | 💬 Support Bot | ⏳ Planned |
 | 📈 Crypto Bot | ⏳ Planned |
