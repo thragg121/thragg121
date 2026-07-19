@@ -31,6 +31,7 @@ I build modern Telegram bots for businesses using Python and aiogram.
 |---------|--------|
 | 🤖 AI Assistant Bot | ✅ Complete |
 | 📅 Booking Bot | ✅ Complete |
+| ⚽ Betting Bot | ✅ Complete |
 | 🛒 Shop Bot | ⏳ Planned |
 | 💬 Support Bot | ⏳ Planned |
 | 📈 Crypto Bot | ⏳ Planned |
