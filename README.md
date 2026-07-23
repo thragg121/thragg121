@@ -1,15 +1,18 @@
 # Hi, I'm Denis 👋
 
-## Python Telegram Bot Developer
+## Python Backend & AI Developer
 
-I build modern Telegram bots for businesses using Python and aiogram.
+I build production-ready Python applications, AI-powered services, Retrieval-Augmented Generation (RAG) systems, and Telegram bots for businesses.
 
-### 🚀 What I build
+---
 
-- 🤖 AI Assistants
-- 📅 Booking Bots
-- 🛒 Shop Bots
-- 💬 Support Bots
+## 🚀 What I build
+
+- 🤖 AI Applications
+- 📄 RAG Systems
+- 📱 Telegram Bots
+- 📊 Trading & Analytics Bots
+- 📅 Booking Systems
 - ⚙️ Business Automation
 
 ---
@@ -17,33 +20,44 @@ I build modern Telegram bots for businesses using Python and aiogram.
 ## 🛠 Tech Stack
 
 - Python
+- FastAPI
 - aiogram
+- ChromaDB
+- Ollama
+- Sentence Transformers
 - SQLite
-- OpenAI API
+- PostgreSQL
+- Docker
+- GitHub Actions
 - Git
 - GitHub
 
 ---
 
-## 📂 Current Portfolio
+# 📂 Portfolio
 
-| Project | Status |
-|---------|--------|
-| 🤖 AI Assistant Bot | ✅ Complete |
-| 📅 Booking Bot | ✅ Complete |
-| ⚽ Betting Bot | ✅ Complete |
-| 🛒 Shop Bot | ⏳ Planned |
-| 💬 Support Bot | ⏳ Planned |
-| 📈 Crypto Bot | ⏳ Planned |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 📄 **DocuMindAI** | Production-ready RAG API with FastAPI, ChromaDB and Ollama | ✅ Complete |
+| 🤖 **AI Assistant Bot** | AI-powered Telegram assistant | ✅ Complete |
+| 📅 **Booking Bot** | Appointment and reservation Telegram bot | ✅ Complete |
+| ⚽ **Betting Bot** | Football analysis Telegram bot | ✅ Complete |
+| 📈 **TradingBot** | Crypto market analysis with Telegram signals | 🚧 In Progress |
+| 🛒 **Shop Bot** | Telegram e-commerce bot | ⏳ Planned |
+| 💬 **Support Bot** | Customer support automation | ⏳ Planned |
 
 ---
 
-## 🎯 Current Goal
+## 🎯 Current Focus
 
-Build high-quality Telegram bots for real businesses and freelance clients.
+- AI Backend Development
+- Retrieval-Augmented Generation (RAG)
+- LLM Integrations
+- Trading Automation
+- Production-grade APIs
 
 ---
 
 ## 📫 Contact
 
-Open to freelance opportunities.
+Open to freelance opportunities, collaborations, and backend/AI projects.
